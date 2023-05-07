@@ -1,0 +1,6 @@
+currency_controllers:
+  resource: ../../src/Currency/Presentation/Http
+  type: attribute
+auth_controllers:
+  resource: ../../src/AUTH/Presentation/Http
+  type: attribute
